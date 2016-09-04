@@ -1,0 +1,6 @@
+Gregory Lubin - 424128
+Daniel Mazour - 431275
+Link to EC2: http://ec2-52-22-103-67.compute-1.amazonaws.com/fall2015-module3-greg-lubin-424128-dan-mazour-431275/mod3index.php
+
+Creative Portion:
+For our Creative Portion, we allow the user to have a personal dashboard page that displays the status of their stories. When the user clicks on the "User Profile" button, it leads them to userprofile.php. Upon loading, the user is shown a dashboard with the NUMBER of comments that a user's story has. Below this dashboard is a full list of the stories that the user has created with links to their stories.
